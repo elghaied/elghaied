@@ -43,10 +43,6 @@
 🚀 My personal website and portfolio
 [Live Demo](https://gshell.fr) | [Repository](https://github.com/elghaied/gshell-web)
 
-### [Your Project Name]
-📱 Description of one of your awesome projects
-⭐ Stars: [X] | 🍴 Forks: [Y]
-[Live Demo](your-demo-link) | [Repository](your-repo-link)
 
 ## 💼 Professional Experience
 
