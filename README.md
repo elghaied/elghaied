@@ -70,11 +70,10 @@
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=elghaied&theme=github)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elghaied&theme=github)
 ---
 
 <div align="center">
-![Profile views](https://komarev.com/ghpvc/?username=elghaied&color=blueviolet)  
+ <img src="https://komarev.com/ghpvc/?username=elghaied&color=blueviolet" alt="Profile views" />
   _"The only way to do great work is to love what you do." – Steve Jobs_
 </div>
