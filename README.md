@@ -74,6 +74,7 @@
 ---
 
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=elghaied&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=elghaied&color=blueviolet" alt="Profile views" />
+  
   _"The only way to do great work is to love what you do." – Steve Jobs_
 </div>
