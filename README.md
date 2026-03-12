@@ -18,7 +18,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anis/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="25" /> Featured Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
@@ -103,7 +103,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anis/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" /> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -144,15 +144,21 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anis/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" /> GitHub Stats
+## 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=elghaied&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elghaied&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=elghaied&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elghaied&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=elghaied&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=elghaied&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 <br/>
